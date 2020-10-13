@@ -1,0 +1,2 @@
+# JARVIS-AI---The-Desktop-Voice-Assistant
+### This is Virtual Private Desktop Assistant for doing Wikipedia searches without opening web browsers, and performing many other daily tasks like playing music with the help of a single voice command.This AI Assistant Life Makes Easier . I Used Many Modules like ``` speech recognition ```  module for  enabling recognition and translation , ``` pyttsx 3 ``` which is python library which will help us to convert text to speech to Voice Assistant makes Creative.
